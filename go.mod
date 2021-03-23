@@ -1,4 +1,4 @@
-module github.com/lesam/raft-boltdb
+module github.com/influxdata/raft-boltdb
 
 go 1.12
 
